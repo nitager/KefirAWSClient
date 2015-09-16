@@ -1,0 +1,53 @@
+/*************************************
+GENERAL
+*************************************/
+body {align:center;
+	min-heigh: 200;
+	min-width: 500px;
+	max-width: 1100px;
+	background-color: lightgray;
+	-webkit-align-self: center; /* Safari 7.0+ */;
+	align-self: center;
+	position: relative;
+	margin: 10;
+	padding: 10;
+}
+
+h1 {align:center;
+	min-heigh: 200;
+	min-width: 500px;
+	max-width: 1000px;
+	color: blue;
+	margin: 10;
+	padding: 10;
+}
+
+p {align:center;
+	min-heigh: 200;
+	min-width: 500px;
+	max-width: 1000px;
+	color: green;
+	
+	margin: 10;
+	padding: 10;
+}
+
+div {align:center;
+	background-color: white;
+	min-heigh: 200;
+	min-width: 500px;
+	max-width: 1000px;
+	
+	position: relative;
+	margin: 10;
+	padding: 10;
+}
+
+table {align:center;
+	min-heigh: 200;
+	min-width: 500px;
+	
+	position: relative;
+	margin: 10;
+	padding: 10;
+}
